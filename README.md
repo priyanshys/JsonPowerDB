@@ -1,4 +1,4 @@
-# JsonPowerDB
+JsonPowerDB
 This project is all about basics of JsonPowerDB (JPDB) and how to use JPDB for CRUD operations.
 
 
@@ -16,7 +16,7 @@ Benefits of using JsonPowerDB
  - Simplest way to retrieve data in a JSON format.
  
  
- Screenshots:
+Screenshots:
  
  ![login2explore3](https://user-images.githubusercontent.com/82473390/186484138-7d0143aa-7bc2-4ec3-aeac-c154b4c4b09e.png)
  
